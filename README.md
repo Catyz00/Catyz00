@@ -37,7 +37,7 @@
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/logo-React-blue?logo=React)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Catyz00}/count.svg" /></p> 
