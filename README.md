@@ -38,7 +38,7 @@
 
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/logo-React-blue?logo=React)
-![UI/UX](https://img.shields.io/badge/logo-UIUX-blue?logo=UIUX)
+![UI/UX](https://img.shields.io/badge/logo-Design%UIUX-blue?logo=Design%UIUX)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Catyz00}/count.svg" /></p> 
