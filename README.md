@@ -37,8 +37,8 @@
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 
 ### Studying in this moment:
-![React](https://img.shields.io/badge/React-red?logo=React)
-![UI/UX](https://img.shields.io/badge/DesignUIUX-pink?logo=DesignUIUX)
+![React](https://img.shields.io/badge/Next.js-red?logo=Next.js)
+![UI/UX](https://img.shields.io/badge/API-pink?logo=API)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Catyz00}/count.svg" /></p> 
